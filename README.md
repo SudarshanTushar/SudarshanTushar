@@ -12,7 +12,7 @@
 [About me](https://t.me/ABOUTVEDMAT)
 
 
-Profile views
+
 ![](https://komarev.com/ghpvc/?username=SudarshanTushar&color=green)
 <p align="center"><a href="https://github.com/SudarshanTushar"><img src="https://github-readme-stats.vercel.app/api?username=attitudeking1&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/SudarshanTushar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attitudeking1&theme=radical&layout=compact"></a></p> 
