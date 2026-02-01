@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tushar;Architecting+Scalable+AI+Systems;Building+for+India's+Future+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tushar;Full-Stack+AI+Architect;Deploying+Scalable+Systems+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
   <p style="font-size: 1.2rem; color: #94a3b8;">
-    <b>Generative AI Engineer</b> &nbsp;|&nbsp; <b>System Architect</b> &nbsp;|&nbsp; <b>Python Specialist</b>
+    <b>Generative AI</b> &nbsp;|&nbsp; <b>Cloud Infrastructure</b> &nbsp;|&nbsp; <b>Mobile & Web</b>
   </p>
 
   <br/>
@@ -12,12 +12,12 @@
     <tr>
       <td align="center" width="160"><img src="https://img.shields.io/badge/FOCUS-SCALABILITY-0f172a?style=for-the-badge&logo=shazam&logoColor=38BDF8"/></td>
       <td align="center" width="160"><img src="https://img.shields.io/badge/DOMAIN-GEN_AI-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8"/></td>
-      <td align="center" width="160"><img src="https://img.shields.io/badge/GOAL-SOCIAL_IMPACT-0f172a?style=for-the-badge&logo=kofi&logoColor=38BDF8"/></td>
+      <td align="center" width="160"><img src="https://img.shields.io/badge/STACK-FULL_CYCLE-0f172a?style=for-the-badge&logo=android&logoColor=38BDF8"/></td>
     </tr>
   </table>
 
   <p align="center" width="600">
-    <i>"I don't just write code. I engineer <b>offline-first AI systems</b> that function in the real world,<br>bridging the gap between <b>Silicon Valley tech</b> and <b>Rural India's needs</b>."</i>
+    <i>"I engineer end-to-end systems. From training <b>Llama 3.1 agents</b> to deploying on <b>DigitalOcean</b> and delivering via <b>Android/Web</b> interfaces for real-world impact."</i>
   </p>
 
 </div>
@@ -29,7 +29,7 @@
 | **DEPLOYMENT** | **SYSTEM ARCHITECTURE & IMPACT** | **STATUS** |
 | :--- | :--- | :--- |
 | <a href="https://github.com/SudarshanTushar/CareeHelpAiBot"><img src="https://img.shields.io/badge/PATHSETU_AI-VOICE_BOT-black?style=for-the-badge&logo=github" width="150"/></a> | **Problem:** Rural students lack career guidance.<br>**Solution:** A **Voice-First Llama 3.1 Agent** that speaks local dialects and generates visual roadmaps.<br>**Tech:** `Llama 3.1` `MongoDB` `Speech-to-Text` | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/CareeHelpAiBot?style=flat-square&color=22c55e&label=Live" /> |
-| <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack"><img src="https://img.shields.io/badge/ROUTE_AI_NE-LOGISTICS-black?style=for-the-badge&logo=github" width="150"/></a> | **Problem:** Disaster relief fails in difficult terrain.<br>**Solution:** **Pathfinding Algorithms** optimized for North-East India to route emergency supplies.<br>**Tech:** `Geo-Spatial` `Python` `GenAI` | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=flat-square&color=22c55e&label=Dev" /> |
+| <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack"><img src="https://img.shields.io/badge/ROUTE_AI_NE-LOGISTICS-black?style=for-the-badge&logo=github" width="150"/></a> | **Problem:** Disaster relief fails in difficult terrain.<br>**Solution:** **Pathfinding Algorithms** optimized for North-East India to route emergency supplies.<br>**Tech:** `Geo-Spatial` `Python` `Full-Stack` | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=flat-square&color=22c55e&label=Dev" /> |
 
 <br/>
 
@@ -37,19 +37,23 @@
 
 <div align="center">
 
-  <h3>Production Grade</h3>
+  <b>CORE INTELLIGENCE</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama_3.1-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
-  
-  <br/>
+  <img src="https://img.shields.io/badge/Llama_3.1-AI_Model-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SambaNova-Cloud_AI-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <br/><br/>
 
-  <h3>Emerging Tech & Tools</h3>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <b>INFRASTRUCTURE & DEPLOYMENT</b><br>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/><br/>
+
+  <b>FULL-STACK INTERFACE</b><br>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SambaNova_Cloud-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Optimization-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 </div>
 
