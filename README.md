@@ -1,40 +1,52 @@
 # Hi, I'm Tushar Gadhe. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Python Developer | Generative AI Enthusiast
-I am a developer focused on building systems that matter. My work centers on **Python Object-Oriented Programming (OOP)**, **Generative AI applications**, and **Algorithmic Problem Solving**. I am currently building AI-driven solutions for disaster management.
+### Python Developer | Generative AI | Backend Systems
+I am a software developer focused on **Generative AI** and **System Architecture**. I build specialized solutions for real-world constraints, currently engineering AI-driven response systems for North-East India.
 
 ---
 
-### 🚀 **Featured Project**
+### 🏆 **Flagship Build**
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **RouteAI-NE** | **Emergency Navigation System.** Developing an AI-driven disaster response system specifically designed for the terrain and challenges of North-East India. | *Python, GenAI, Algorithms* |
+| **RouteAI-NE** | **AI-Driven Disaster Response System** |
+| :--- | :--- |
+| **The Mission** | Engineering a government-grade navigation system specifically for the challenging terrain of **North-East India**. |
+| **The Tech** | • **Core:** Python, Full-Stack Architecture<br>• **AI:** Pathfinding Algorithms & GenAI Integration<br>• **Focus:** Offline-first capability and speed. |
+| **Code** | <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack"><img src="https://img.shields.io/badge/View_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 ---
 
 ### 🛠️ **Technical Arsenal**
 
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-Python_3-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Generative_AI-orange?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Concepts-OOP_&_Design-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git_&_GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Domains & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Dev-6DB33F?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 **GitHub Activity**
+### ⚡ **Current Focus**
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudarshanTushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanTushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
-</p>
+* **Deepening GenAI Integration:** Exploring LLM agents for automated decision-making.
+* **System Architecture:** Optimizing `RouteAI-NE` for low-latency responses.
 
 ---
 
-### ⚡ **Connect**
+### 📬 **Connect**
 
-* **Email:** [sudarshantushar04@gmail.com](mailto:sudarshantushar04@gmail.com)
-* **Focus:** Open to collaborations on AI/ML projects and meaningful development work.
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/tushargadhe">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sudarshantushar04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
