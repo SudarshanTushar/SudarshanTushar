@@ -116,7 +116,7 @@
     </a>
     &nbsp;
     <a href="https://t.me/Sheshnag">
-      <img src="https://img.shields.io/badge/TELEGRAM-CHAT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/TELEGRAM-CONTACT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
     </a>
     &nbsp;
     <a href="mailto:sudarshantushar04@gmail.com">
