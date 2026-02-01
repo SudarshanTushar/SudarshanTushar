@@ -59,11 +59,7 @@
 
 <br/>
 
-## 📈 **Work Style & Productive Hours**
 
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudarshanTushar&bg_color=0f172a&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="100%" />
 
 </div>
 
