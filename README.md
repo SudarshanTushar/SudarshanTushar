@@ -1,4 +1,4 @@
-# Hi, I'm Tushar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm SudarshanTushar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SudarshanTushar&label=Profile%20Views&color=0e75b6&style=flat" alt="SudarshanTushar" />
@@ -10,11 +10,12 @@ I focus on **Python**, **Generative AI**, and **Backend Systems**. I build pract
 
 ---
 
-### 📊 **My Activity**
+### 🟢 **System Status (Live Telemetry)**
 
-<p align="left">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SudarshanTushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
+| Project Monitor | Status |
+| :--- | :--- |
+| **Pathsetu 🇮🇳** | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/CareeHelpAiBot?style=flat&color=2ea44f&label=Last%20Push" /> |
+| **RouteAI-NE** | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=flat&color=2ea44f&label=Last%20Push" /> |
 
 ---
 
