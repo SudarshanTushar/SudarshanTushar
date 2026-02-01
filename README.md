@@ -5,21 +5,15 @@
 </p>
 
 ### Python Developer | Building AI for India 🇮🇳
+
 I focus on **Python**, **Generative AI**, and **Backend Systems**. I build practical solutions for real-world problems, from disaster response logistics to rural education tools.
 
 ---
 
-### 📊 **The Scoreboard (My Activity)**
+### 📊 **My Activity**
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SudarshanTushar&theme=flat&no-frame=true&margin-w=15" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudarshanTushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SudarshanTushar&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<p align="left">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SudarshanTushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
