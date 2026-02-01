@@ -1,9 +1,23 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tushar;Full-Stack+AI+Architect;Deploying+Scalable+Systems+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tushar;Architecting+Scalable+AI+Systems;Building+for+India's+Future+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
   <p style="font-size: 1.2rem; color: #94a3b8;">
-    <b>Generative AI</b> &nbsp;|&nbsp; <b>Cloud Infrastructure</b> &nbsp;|&nbsp; <b>Mobile & Web</b>
+    <b>Generative AI Engineer</b> &nbsp;|&nbsp; <b>System Architect</b> &nbsp;|&nbsp; <b>Python Specialist</b>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/tushargadhe">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    </a>
+    &nbsp;
+    <a href="https://t.me/Sheshnag">
+      <img src="https://img.shields.io/badge/TELEGRAM-CHAT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
+    </a>
+    &nbsp;
+    <a href="mailto:sudarshantushar04@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-COLLABORATE-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    </a>
   </p>
 
   <br/>
@@ -12,26 +26,77 @@
     <tr>
       <td align="center" width="160"><img src="https://img.shields.io/badge/FOCUS-SCALABILITY-0f172a?style=for-the-badge&logo=shazam&logoColor=38BDF8"/></td>
       <td align="center" width="160"><img src="https://img.shields.io/badge/DOMAIN-GEN_AI-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8"/></td>
-      <td align="center" width="160"><img src="https://img.shields.io/badge/STACK-FULL_CYCLE-0f172a?style=for-the-badge&logo=android&logoColor=38BDF8"/></td>
+      <td align="center" width="160"><img src="https://img.shields.io/badge/GOAL-SOCIAL_IMPACT-0f172a?style=for-the-badge&logo=kofi&logoColor=38BDF8"/></td>
     </tr>
   </table>
 
   <p align="center" width="600">
-    <i>"I engineer end-to-end systems. From training <b>Llama 3.1 agents</b> to deploying on <b>DigitalOcean</b> and delivering via <b>Android/Web</b> interfaces for real-world impact."</i>
+    <i>"I engineer <b>offline-first AI systems</b> that function in the real world,<br>bridging the gap between <b>Silicon Valley tech</b> and <b>Rural India's needs</b>."</i>
   </p>
 
 </div>
 
 <br/>
 
-## 📡 **Mission Control**
+## 📡 **Featured Deployments**
 
-| **DEPLOYMENT** | **SYSTEM ARCHITECTURE & IMPACT** | **STATUS** |
-| :--- | :--- | :--- |
-| <a href="https://github.com/SudarshanTushar/CareeHelpAiBot"><img src="https://img.shields.io/badge/PATHSETU_AI-VOICE_BOT-black?style=for-the-badge&logo=github" width="150"/></a> | **Problem:** Rural students lack career guidance.<br>**Solution:** A **Voice-First Llama 3.1 Agent** that speaks local dialects and generates visual roadmaps.<br>**Tech:** `Llama 3.1` `MongoDB` `Speech-to-Text` | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/CareeHelpAiBot?style=flat-square&color=22c55e&label=Live" /> |
-| <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack"><img src="https://img.shields.io/badge/ROUTE_AI_NE-LOGISTICS-black?style=for-the-badge&logo=github" width="150"/></a> | **Problem:** Disaster relief fails in difficult terrain.<br>**Solution:** **Pathfinding Algorithms** optimized for North-East India to route emergency supplies.<br>**Tech:** `Geo-Spatial` `Python` `Full-Stack` | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=flat-square&color=22c55e&label=Dev" /> |
+<div align="center">
+  
+  <a href="https://github.com/SudarshanTushar/CareeHelpAiBot">
+    <img src="https://img.shields.io/badge/PROJECT_01-PATHSETU_AI_%F0%9F%87%AE%F0%9F%87%B3-0f172a?style=for-the-badge&logo=robot&logoColor=38BDF8" width="300" />
+  </a>
+
+  <h3>The Rural Career Intelligence Agent</h3>
+
+  <p width="600">
+    A <b>Voice-First AI Agent</b> powered by <b>Llama 3.1</b> that bridges the career guidance gap.<br>
+    It detects local dialects, speaks back in native languages, and generates visual roadmaps.
+  </p>
+
+  <img src="https://img.shields.io/badge/Model-Llama_3.1-4B0082?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Audio-Speech_AI-FF6F00?style=flat-square&logo=google-cloud&logoColor=white"/>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/SudarshanTushar/CareeHelpAiBot">
+    <img src="https://img.shields.io/github/last-commit/SudarshanTushar/CareeHelpAiBot?style=for-the-badge&color=22c55e&label=LIVE SYSTEM STATUS" />
+  </a>
+
+</div>
 
 <br/>
+
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="500"></div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack">
+    <img src="https://img.shields.io/badge/PROJECT_02-ROUTE_AI_NE-0f172a?style=for-the-badge&logo=google-maps&logoColor=38BDF8" width="300" />
+  </a>
+
+  <h3>Disaster Response Logistics Core</h3>
+
+  <p width="600">
+    Optimizing <b>Emergency Supply Chains</b> for the difficult terrain of North-East India.<br>
+    Uses <b>Pathfinding Algorithms</b> to route aid where Google Maps fails during crises.
+  </p>
+
+  <img src="https://img.shields.io/badge/Core-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Geo-Spatial_Algorithms-00599C?style=flat-square&logo=google-earth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-Full_Cycle-38BDF8?style=flat-square&logo=react&logoColor=black"/>
+
+  <br/><br/>
+
+  <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack">
+    <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=for-the-badge&color=22c55e&label=DEV SYSTEM STATUS" />
+  </a>
+
+</div>
+
+<br/><br/>
 
 ## ⚡ **Technical Arsenal**
 
@@ -59,28 +124,6 @@
 
 <br/>
 
-
-
-</div>
-
-<br/>
-
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/tushargadhe">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/Sheshnag">
-    <img src="https://img.shields.io/badge/TELEGRAM-CHAT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:sudarshantushar04@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-COLLABORATE-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <br/><br/>
-  
   <img src="https://komarev.com/ghpvc/?username=SudarshanTushar&label=PROFILE+VIEWS&color=0f172a&style=for-the-badge" alt="Views" />
-
 </div>
