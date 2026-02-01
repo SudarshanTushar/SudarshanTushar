@@ -6,27 +6,13 @@
     <b>Generative AI Engineer</b> &nbsp;|&nbsp; <b>System Architect</b> &nbsp;|&nbsp; <b>Python Specialist</b>
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/tushargadhe">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-    </a>
-    &nbsp;
-    <a href="https://t.me/Sheshnag">
-      <img src="https://img.shields.io/badge/TELEGRAM-CHAT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
-    </a>
-    &nbsp;
-    <a href="mailto:sudarshantushar04@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-COLLABORATE-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-    </a>
-  </p>
-
   <br/>
 
   <table>
     <tr>
-      <td align="center" width="160"><img src="https://img.shields.io/badge/FOCUS-SCALABILITY-0f172a?style=for-the-badge&logo=shazam&logoColor=38BDF8"/></td>
+      <td align="center" width="160"><img src="https://img.shields.io/badge/FOCUS-SCALABILITY-0f172a?style=for-the-badge&logo=azurefunctions&logoColor=38BDF8"/></td>
       <td align="center" width="160"><img src="https://img.shields.io/badge/DOMAIN-GEN_AI-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8"/></td>
-      <td align="center" width="160"><img src="https://img.shields.io/badge/GOAL-SOCIAL_IMPACT-0f172a?style=for-the-badge&logo=kofi&logoColor=38BDF8"/></td>
+      <td align="center" width="160"><img src="https://img.shields.io/badge/GOAL-SOCIAL_IMPACT-0f172a?style=for-the-badge&logo=githubsponsors&logoColor=38BDF8"/></td>
     </tr>
   </table>
 
@@ -43,7 +29,7 @@
 <div align="center">
   
   <a href="https://github.com/SudarshanTushar/CareeHelpAiBot">
-    <img src="https://img.shields.io/badge/PROJECT_01-PATHSETU_AI_%F0%9F%87%AE%F0%9F%87%B3-0f172a?style=for-the-badge&logo=robot&logoColor=38BDF8" width="300" />
+    <img src="https://img.shields.io/badge/PROJECT_01-PATHSETU_AI_%F0%9F%87%AE%F0%9F%87%B3-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8" width="300" />
   </a>
 
   <h3>The Rural Career Intelligence Agent</h3>
@@ -55,7 +41,7 @@
 
   <img src="https://img.shields.io/badge/Model-Llama_3.1-4B0082?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Audio-Speech_AI-FF6F00?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Audio-Speech_AI-FF6F00?style=flat-square&logo=googlecloud&logoColor=white"/>
   
   <br/><br/>
   
@@ -65,16 +51,12 @@
 
 </div>
 
-<br/>
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="500"></div>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
   <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack">
-    <img src="https://img.shields.io/badge/PROJECT_02-ROUTE_AI_NE-0f172a?style=for-the-badge&logo=google-maps&logoColor=38BDF8" width="300" />
+    <img src="https://img.shields.io/badge/PROJECT_02-ROUTE_AI_NE-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" width="300" />
   </a>
 
   <h3>Disaster Response Logistics Core</h3>
@@ -85,7 +67,7 @@
   </p>
 
   <img src="https://img.shields.io/badge/Core-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Geo-Spatial_Algorithms-00599C?style=flat-square&logo=google-earth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Geo-Spatial_Algorithms-00599C?style=flat-square&logo=googleearth&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stack-Full_Cycle-38BDF8?style=flat-square&logo=react&logoColor=black"/>
 
   <br/><br/>
@@ -105,7 +87,7 @@
   <b>CORE INTELLIGENCE</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Llama_3.1-AI_Model-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SambaNova-Cloud_AI-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SambaNova-Cloud_AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <br/><br/>
 
   <b>INFRASTRUCTURE & DEPLOYMENT</b><br>
@@ -116,7 +98,7 @@
   <br/><br/>
 
   <b>FULL-STACK INTERFACE</b><br>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-Optimization-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
@@ -125,5 +107,23 @@
 <br/>
 
 <div align="center">
+
+  <h3>🤝 Connect & Collaborate</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/tushargadhe">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    </a>
+    &nbsp;
+    <a href="https://t.me/Sheshnag">
+      <img src="https://img.shields.io/badge/TELEGRAM-CHAT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
+    </a>
+    &nbsp;
+    <a href="mailto:sudarshantushar04@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-COLLABORATE-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    </a>
+  </p>
+  
   <img src="https://komarev.com/ghpvc/?username=SudarshanTushar&label=PROFILE+VIEWS&color=0f172a&style=for-the-badge" alt="Views" />
+
 </div>
