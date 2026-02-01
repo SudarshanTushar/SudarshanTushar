@@ -1,60 +1,88 @@
-# Hi, I'm SudarshanTushar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3382F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tushar;Architecting+AI+for+India+%F0%9F%87%AE%F0%9F%87%B3;Building+RouteAI-NE+%26+Pathsetu" alt="Typing SVG" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SudarshanTushar&label=Profile%20Views&color=0e75b6&style=flat" alt="SudarshanTushar" />
-</p>
+  <h3>
+    <span style="color: #9E9E9E;">Generative AI</span>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <span style="color: #9E9E9E;">System Architecture</span>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <span style="color: #9E9E9E;">Python Specialist</span>
+  </h3>
+  
+  <br/>
 
-### Python Developer | Building AI for India 🇮🇳
+  <table>
+    <tr>
+      <th align="center">🚀 PATHSETU (AI Bot)</th>
+      <th align="center">🚑 ROUTEAI-NE (Disaster Ops)</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/SudarshanTushar/CareeHelpAiBot">
+          <img src="https://img.shields.io/github/last-commit/SudarshanTushar/CareeHelpAiBot?style=for-the-badge&color=2ea44f&label=ACTIVE" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack">
+          <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=for-the-badge&color=2ea44f&label=ACTIVE" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-I focus on **Python**, **Generative AI**, and **Backend Systems**. I build practical solutions for real-world problems, from disaster response logistics to rural education tools.
+  <br/>
 
----
+  <p align="center">
+    I build <b>offline-ready AI systems</b> for real-world chaos.<br>
+    From <b>disaster logistics</b> in North-East India to <b>career intelligence</b> for rural students.<br>
+    <i>I write code that solves bleeding-neck problems.</i>
+  </p>
 
-### 🟢 **System Status (Live Telemetry)**
+</div>
 
-| Project Monitor | Status |
-| :--- | :--- |
-| **Pathsetu 🇮🇳** | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/CareeHelpAiBot?style=flat&color=2ea44f&label=Last%20Push" /> |
-| **RouteAI-NE** | <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=flat&color=2ea44f&label=Last%20Push" /> |
+<br/>
 
----
+## ⚡ **Featured Engineering**
 
-### 🛠️ **Featured Projects**
-
-| Project | Description | Tech |
+| **Project** | **The Mission** | **The Tech** |
 | :--- | :--- | :--- |
-| **Pathsetu 🇮🇳** | **AI Career Guidance Bot.** <br>A multilingual voice-bot helping rural students find career paths using Llama 3.1.<br>🔗 <a href="https://github.com/SudarshanTushar/CareeHelpAiBot">**View Source Code**</a> | *Python, Llama 3.1, MongoDB* |
-| **RouteAI-NE** | **Disaster Response System.** <br>Optimizing emergency supply routes for North-East India's terrain.<br>🔗 <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack">**View Source Code**</a> | *Python, Pathfinding, GenAI* |
+| <a href="https://github.com/SudarshanTushar/CareeHelpAiBot"><img src="https://img.shields.io/badge/PATHSETU_%F0%9F%87%AE%F0%9F%87%B3-View_Code-black?style=for-the-badge&logo=github" width="100%"/></a> | **Voice-First Career AI.** <br>Bridging the rural gap with multilingual Llama 3.1 intelligence. | ![Python](https://img.shields.io/badge/Llama_3.1-4B0082) ![Mongo](https://img.shields.io/badge/MongoDB-47A248) |
+| <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack"><img src="https://img.shields.io/badge/ROUTE_AI--NE-View_Code-black?style=for-the-badge&logo=github" width="100%"/></a> | **Disaster Logistics Core.** <br>Optimizing emergency paths for difficult terrain. | ![Python](https://img.shields.io/badge/Pathfinding-FF4500) ![GenAI](https://img.shields.io/badge/GenAI-000000) |
 
----
+<br/>
 
-### 💻 **Technical Arsenal**
+## 🛠️ **The Arsenal**
 
-**Languages**
-<p align="left">
+<div align="center">
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Llama_3.1-Model-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SambaNova-Cloud-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Data-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-**AI & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Llama_3.1-GenAI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SambaNova-Cloud_AI-orange?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pyrogram-Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</p>
+</div>
 
----
+<br/>
 
-### 📬 **Connect**
-
-<p align="left">
+<div align="center">
+  
   <a href="https://www.linkedin.com/in/tushargadhe">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="mailto:sudarshantushar04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=SudarshanTushar&label=PROFILE+VIEWS&color=20232a&style=for-the-badge" alt="Views" />
+
+</div>
