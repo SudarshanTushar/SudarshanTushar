@@ -10,7 +10,7 @@ I don't just write code; I build systems that solve bleeding-neck pain points. M
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **RouteAI-NE** | **AI-Driven Disaster Response System.** Engineered a government-grade navigation system for North-East India to optimize emergency logistics under constraint. | *GenAI, Python, Pathfinding Algos* |
-| **Shell Compressor** | **Industrial Lead-Gen Platform.** Full-stack deployment for heavy industry, focusing on high-conversion architecture and reliability. | *Full-Stack, Heroku, Analytics* |
+
 
 ---
 
@@ -29,17 +29,10 @@ I don't just write code; I build systems that solve bleeding-neck pain points. M
 ### 📊 **Performance Metrics**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudarshanTushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanTushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
 </p>
 
----
-
-### 🧠 **Strategy & Obsessions**
-
-* **Competitive Programming:** Training for **ICPC World Finals**. The goal is optimizing complexity, not just passing test cases.
-* **Chess:** Rated player (Chess.com: `prathamesh-90`). I apply opening theory to business strategy.
-* **Hackathons:** Winner/Participant in **ET Gen AI Hackathon** & **Drishti-NE**. I build MVPs in 24 hours that others take months to scope.
 
 ---
 
