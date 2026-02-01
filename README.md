@@ -46,7 +46,7 @@
   <br/><br/>
   
   <a href="https://github.com/SudarshanTushar/CareeHelpAiBot">
-    <img src="https://img.shields.io/github/last-commit/SudarshanTushar/CareeHelpAiBot?style=for-the-badge&color=22c55e&label=LIVE SYSTEM STATUS" />
+    <img src="https://img.shields.io/badge/SOURCE_CODE-ACCESS_NOW-22c55e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
@@ -73,7 +73,7 @@
   <br/><br/>
 
   <a href="https://github.com/SudarshanTushar/DrishtiAppFullstack">
-    <img src="https://img.shields.io/github/last-commit/SudarshanTushar/DrishtiAppFullstack?style=for-the-badge&color=22c55e&label=DEV SYSTEM STATUS" />
+    <img src="https://img.shields.io/badge/SOURCE_CODE-ACCESS_NOW-22c55e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
@@ -102,6 +102,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-Optimization-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
+</div>
+
+<br/>
+
+## 📉 **Work Style & Productive Hours**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudarshanTushar&bg_color=0f172a&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 <br/>
