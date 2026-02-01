@@ -1,6 +1,6 @@
 # Hi, I'm Tushar Gadhe. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### GenAI Architect | Startup Strategist | ICPC Competitor
+### GenAI Architect 
 I don't just write code; I build systems that solve bleeding-neck pain points. My focus is on **Generative AI**, **Industrial Full-Stack Deployment**, and **High-Performance Algorithms**. Currently obsessing over psychology-driven business strategy and algorithmic dominance.
 
 ---
