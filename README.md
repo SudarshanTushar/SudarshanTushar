@@ -59,18 +59,26 @@
 
 <br/>
 
+## 📈 **Work Style & Productive Hours**
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudarshanTushar&bg_color=0f172a&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
 <div align="center">
   
   <a href="https://www.linkedin.com/in/tushargadhe">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  
   <a href="https://t.me/Sheshnag">
     <img src="https://img.shields.io/badge/TELEGRAM-CHAT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;
-  
   <a href="mailto:sudarshantushar04@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-COLLABORATE-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
